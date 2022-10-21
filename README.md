@@ -28,12 +28,18 @@
 <Br>
   
 <table>
-  <thead>
-    <th>matin</th>
-  </thead>
-  <tbody>
-    <tr>arvin</tr>
-  </tbody>
+  <tr>
+    <th>name</th>
+    <th>skill level</th>
+  </tr>
+  <tr>
+    <td>react</td>
+    <td>medium</td>
+  </tr>
+  <tr>
+    <td>Javascript</td>
+    <td>high</td>
+  </tr>
 </table>
 
 <Br>
