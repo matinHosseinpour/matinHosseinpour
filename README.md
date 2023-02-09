@@ -1,22 +1,26 @@
-# Matin Hosseinpour
+<h1 align='center' color='yellow'>Matin Hosseinpour</h1>
 
-Hi there! I'm a software developer with a passion for creating quality, reliable, and scalable software.
+<p align='center'>Hi there! I'm a software developer with a passion for creating quality, reliable, and scalable software.</p>
 
-## Skills
+<hr>
+
+## Skills (from 5*)
 - JS
-  - React
+  - React (****)
     - react query
     - redux
     - context
-  - Node JS
+  - Node JS (***)
     - express
     - rest api
     - mongo db
     - my sql
-  - type script
+  - type script (****)
 - Python
-  - ML
-  - Image processing  
+  - ML (***)
+  - Image processing (**)  
+
+<hr>
 
 ## Projects
 Here are some of the projects I've been working on:
@@ -26,9 +30,13 @@ Here are some of the projects I've been working on:
 - The official website of Idea Pardazan Padideh Noyaft Company
 - React - Bootstrap - react query - redux
 
+<hr>
+
 ## Education
 - Master student in Birjand university
   - IOT researcher
+
+<hr>
 
 ## Contact
 You can reach me via [email](matin192hp@gmail.com) or [LinkedIn](linkedin.com/in/your-username).
