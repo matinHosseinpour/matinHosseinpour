@@ -1,87 +1,36 @@
-<p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
-</p>
-<hr>
-<h1 align="center">I'm <a href="https://github.com/Aryagm">Matin Hosseinpour<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
-<Br>
-<h1>About Me! 😎</h1>
+# Matin Hosseinpour
 
-- 🏫: I'm in Master degree.
-- 🔭: I’m currently working in birjand university information technology center.
-- 🌱: I’m in love with JS. 🧠💻🤖
-- 🤔: I’m currently learning ML and Image processing! 😅
-- 💬: Ask me about python, JS and React. 📊📈🤖🧠
-- 😄  Pronouns: He/His
-  
-<hr>
-<Br>
-<h1 align="center">Get in Touch! 📬</h1>
-<Br>
-<p align="center">
-<a href="https://www.linkedin.com/in/matin-hosseinpourr" target="blank"><img align="center" src="https://img.shields.io/badge/matin hosseinpour-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:matin192hp@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/matin192hp@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/matinHosseinpour" target="blank"><img align="center" src="https://img.shields.io/badge/matin-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-  
-<Br>
-<hr>
-<Br>
-<h1 align="center">Skills I have! 🤸‍♂</h1>
-<Br>
-  
-<table>
-  <tr>
-    <th>name</th>
-    <th>skill level</th>
-  </tr>
-  <tr>
-    <td>react</td>
-    <td>medium</td>
-  </tr>
-  <tr>
-    <td>Javascript</td>
-    <td>high</td>
-  </tr>
-</table>
+Hi there! I'm a software developer with a passion for creating quality, reliable, and scalable software.
 
-<Br>
-<hr>
-<Br>
-<h1>Tools I use! 🛠️</h1>
-<Br>
+## Skills
+- JS
+  - React
+    - react query
+    - redux
+    - context
+  - Node JS
+    - express
+    - rest api
+    - mongo db
+    - my sql
+  - type script
+- Python
+  - ML
+  - Image processing  
 
+## Projects
+Here are some of the projects I've been working on:
 
-<Br>
-<hr>
-<Br>
-<h1>Some of my Projects! 🎨</h1>
-<Br>
-  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=California_Housing_Prices)](https://github.com/Aryagm/California_Housing_Prices)
+### Project 1
+- [IP PN](#)
+- The official website of Idea Pardazan Padideh Noyaft Company
+- React - Bootstrap - react query - redux
 
-<Br>
-<hr>
-<Br>
+## Education
+- Master student in Birjand university
+  - IOT researcher
 
-<Br>
-<h1>GitHub Stats! 📊</h1>
-<Br>
-  
-[![Arya's github stats](https://github-readme-stats.vercel.app/api?username=matinHosseinpour&show_icons=true&theme=merko)](https://github.com/matinHosseinpour/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matinHosseinpour&layout=compact&theme=merko)](https://github.com/matinHosseinpour/github-readme-stats)
+## Contact
+You can reach me via [email](matin192hp@gmail.com) or [LinkedIn](linkedin.com/in/your-username).
 
- 
-<Br>
-<hr>
-<Br>
-  
-  
-  
-<Br>
-<hr>
-<Br>
-<h1>Thank You! 🤵 </h1>
-<Br>
-
-------
-  
-Credit: [Matin](https://github.com/matinHosseinpour)
-Last Edited on: 22/06/2022
-
+Thank you for visiting my GitHub profile!
