@@ -1,44 +1,59 @@
-<h1 align='center' color='yellow'>Matin Hosseinpour</h1>
+# Matin Hosseinpour
 
-<p align='center'>Hi there! I'm a software developer with a passion for creating quality, reliable, and scalable software.</p>
+## 👨‍💻 About Me
 
-<hr>
+Hi, I'm Matin! With 6+ years of experience in front-end development, specializing in **React** and **Next.js**, I’ve had the opportunity to work on diverse and exciting projects, ranging from live meeting platforms to AI-driven solutions. I am passionate about software engineering principles, clean code, and modular design, which I apply in my daily work. Additionally, I am deeply interested in **Artificial Intelligence** and have worked on projects that utilize AI for predictive analytics and productivity enhancement.
 
-## Skills (from 5*)
-- JS
-  - React (****)
-    - react query
-    - redux
-    - context
-  - Node JS (***)
-    - express
-    - rest api
-    - mongo db
-    - my sql
-  - type script (****)
-- Python
-  - ML (***)
-  - Image processing (**)  
+I'm always looking for new challenges and innovative projects where I can apply my knowledge and grow as a developer.
 
-<hr>
+## 🔧 Technical Skills
 
-## Projects
-Here are some of the projects I've been working on:
+### Front-End Development
+- **Languages**: JavaScript, TypeScript, HTML, CSS
+- **Frameworks/Libraries**: React, Next.js, Redux, Bootstrap, Tailwind, Sass
+- **Other Tools**: Figma, Git, CI/CD, Jira, Socket, REST API
 
-### Project 1
-- [IP PN](#)
-- The official website of Idea Pardazan Padideh Noyaft Company
-- React - Bootstrap - react query - redux
+### Data & AI
+- **Languages**: Python, C++, Go
+- **Libraries**: Numpy, Pandas, Matplotlib, scikit-learn, Pytorch, TensorFlow, NLP
 
-<hr>
+### Additional Skills
+- **Backend**: MySQL, REST API development
+- **Other**: Linux, Bash scripting, OOP, Responsive Design, Scrum
 
-## Education
-- Master student in Birjand university
-  - IOT researcher
+## 💼 Work Experience
 
-<hr>
+- **Next.js Developer**, MonarchyTech, USA (2022-2024)
+  - Developed an online chat platform and conducted live sessions with an admin panel.
+  - Built a website for serum sales and the main website for MonarchyTech.
 
-## Contact
-You can reach me via [email](matin192hp@gmail.com) or [LinkedIn](linkedin.com/in/your-username).
+- **AI Engineer**, Kavir Tire Factory (2022-2023)
+  - Preprocessed data and implemented AI models to enhance efficiency and predict steam consumption.
 
-Thank you for visiting my GitHub profile!
+- **React Developer**, Birjand University Information Technology Center (2020-2022)
+  - Developed a real-time data management dashboard for internal use.
+
+- **IoT Developer**, Noorab, Iran (2019-2021)
+  - Designed and developed software to control an intelligent musical fountain using Raspberry Pi.
+
+- **Front-End Intern**, PenCode, Iran (2018-2019)
+  - Gained experience in JavaScript, HTML, CSS, Bootstrap, and jQuery.
+
+## 🎓 Education
+
+- **Bachelor of Computer Engineering**, Birjand University (2018-2022)
+- **Master of Information Technology**, Birjand University (2022-Present)
+- **NLP & ML** courses, Birjand University
+- **Teaching Experience**: Database laboratory, Computer Workshop (2024)
+
+## 🌱 Interests
+
+- Traveling
+- Machine Learning projects
+- Self-improvement
+- Tackling challenging projects
+
+## 📫 Contact Me
+
+- **Email**: matin192hp@gmail.com
+- **LinkedIn**: [matin-hosseinpour](http://linkedin.com/in/matin-hosseinpour)
